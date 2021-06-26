@@ -1,4 +1,5 @@
-# vehicle-prices-analysis
+# Vehicle prices analysis
+
 In this project I will analyze vehicle sales ads.
 
 The data is compiled from free website advertisements from "Crankshaft List", published over the last few years.
